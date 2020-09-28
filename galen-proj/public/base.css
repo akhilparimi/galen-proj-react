@@ -1,0 +1,11 @@
+.bx--header  {
+  background-color: #110a44 !important;
+}
+
+.bx--text-truncate--end {
+  font-weight: bold;
+}
+
+a.bx--header__menu-item:hover {
+  background-color:#4d429e6e
+}
